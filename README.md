@@ -1,3 +1,2 @@
 # Proyecto Final Excel Procesamiento de Datos
-Poyecto final para el curso de Procesamiento de Datos en Excel de Coder House. 
-Consiste en un Análisis de Ventas de varias agencias de autos en EE.UU.
+Este proyecto consistió en el desarrollo de un Dashboard en Excel, partiendo de un conjunto de datos crudos que requirieron una extensa limpieza y procesamiento, ya que los datos no estaban ni un poco normalizados. Realicé un análisis exploratorio y descriptivo para comprender mejor las tendencias, patrones y KPIs más importantes.
